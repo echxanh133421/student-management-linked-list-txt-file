@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\file c++\student manange and txt file\student manange and txt file\</FILEPATH>
+      <FILENAME>student manange and txt file.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'student::id' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>student::{ctor}</FUNCTION>
+    <DECORATED>??0student@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>student::id</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\file c++\student manange and txt file\student manange and txt file\</FILEPATH>
+      <FILENAME>student manange and txt file.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'student::point' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>student::{ctor}</FUNCTION>
+    <DECORATED>??0student@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>student::point</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\file c++\student manange and txt file\student manange and txt file\</FILEPATH>
+      <FILENAME>student manange and txt file.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'NodeStudent::next' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>NodeStudent::{ctor}</FUNCTION>
+    <DECORATED>??0NodeStudent@@QEAA@XZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>NodeStudent::next</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

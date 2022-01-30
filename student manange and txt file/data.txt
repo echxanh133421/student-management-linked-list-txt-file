@@ -1,0 +1,4 @@
+nguyen son hai,5/6/2001,20195000,9
+nguyen tuan anh,5/7/2001,20198751,8
+pham cong cuong,3/4/2001,20194928,10
+phan huyen,13/3/2001,20191334,10
