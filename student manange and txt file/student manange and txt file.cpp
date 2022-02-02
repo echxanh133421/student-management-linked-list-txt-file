@@ -210,7 +210,7 @@ void deleteStudent(listStudent &l)
 
 // SORT 
 
-//1. sort name merge sort
+//1. sort name 
 // swap function;
 
 void swap(NodeStudent* nodemin, NodeStudent* node)
@@ -254,7 +254,7 @@ void sort_name_selection(listStudent l)
 	}
 }
 
-//2.sort point quick sort
+//2.sort point 
 
 void sort_point_selection(listStudent l)
 {
